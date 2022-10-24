@@ -1,12 +1,9 @@
 # Paddle Mario
-This is my second game...   
-Pico8 is reallllly fun
 
-
-Bunch of cool levels 😎   
-This game I'd so generous. No limit for bonuses   
-Almost 10 different powers and actions
-Simple enough to pass levels
+Almost 10 different POWER UPs and actions   
+Simple enough to pass levels  
+Hopefully this game is generous 🙏  
+There are also hidden puzzles and you should find it every level (save the Mario)   
 
 Are you ready for it ??
 
